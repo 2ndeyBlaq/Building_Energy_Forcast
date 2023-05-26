@@ -1,2 +1,4 @@
-# Building_Energy_Forcast
+# Building Energy Forcast
 Building energy forecast using machine learning
+
+Energy demand forecasting is crucial technique that helps to predict the future needs of the energy to ensure there is a balance between demand and supply. The aim is to analyze and predict Energy consumption using weather forecast. The analysis aims to achieve various objectives such as descriptive analysis of energy consumption across seasons of the year, Inferential analysis, decomposing of time series and prediction of energy consumption using machine learning. The analysis will assess the performance of different data mining forecasting models. The data is the analyzed using various techniques in data mining and also the use of machine learning and deep learning algorithm. The data analysis will help to forecast and predict future energy consumptions.
